@@ -1,3 +1,5 @@
+Project Owner : HESBON ANGWENYI
+Project Name  : FLATACUTIES
 # ANIMAL VOTING APP
 This is a simple web application that allows users to vote for their favorite animals from a list of cute animals. The app displays a list of animals, along with their images, and lets users vote for their favorites. Users can also add new animals to the list
  
